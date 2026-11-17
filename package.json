@@ -1,0 +1,14 @@
+{
+  "name": "vectorized-aggregation-engine",
+  "version": "1.0.0",
+  "description": "Columnar aggregation operator with hash grouping, retractions and spill",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
